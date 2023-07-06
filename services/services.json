@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "image": "deliver-packages.jpg",
+        "title": "Deliver Packages",
+        "subtitle": "Share in delivering packages and earn with us",
+        "navigation": "deliver_packages"
+    },
+    {
+        "id": "2",
+        "image": "dp-between-2-companies.jpg",
+        "title": "Try Business Class",
+        "subtitle": "Deliver packages between two companies",
+        "navigation": "deliver_business_packages"  
+    }
+]
