@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "pckg-name": "IPhone 13 Pro",
+        "location": "6 October, Giza, Egypt",
+        "lat": 29.9418544,
+        "long": 30.7177566,
+        "type": "Mobile Phones, Electronics",
+        "price": "EGP 20,000"
+    },
+    {
+        "id": "2",
+        "pckg-name": "ASUS X515 Laptop",
+        "location": "Dar Masr, Giza, Egypt",
+        "lat": 29.9373117,
+        "long": 31.0163497,
+        "type": "Laptops, Electronics",
+        "price": "EGP 15,000"
+    },
+    {
+        "id": "3",
+        "pckg-name": "Windows Activation USB",
+        "location": "Alexandria, Cairo, Egypt",
+        "lat": 31.2240058,
+        "long": 29.7900744,
+        "type": "Activation Keys, Electronics",
+        "price": "EGP 18.0"
+    },
+    {
+        "id": "4",
+        "pckg-name": "A Sci-Fi Book",
+        "location": "Fifth Settlement, Cairo, Egypt",
+        "lat": 30.0035389,
+        "long": 31.4056766,
+        "type": "Books",
+        "price": "EGP 10,000"
+    },
+    {
+        "id": "5",
+        "pckg-name": "Adidas Black Shoes",
+        "location": "Tanta, Delta, Egypt",
+        "lat": 30.8091355,
+        "long": 30.8250308,
+        "type": "Wear, Fashion",
+        "price": "EGP 12,000"
+    }
+]
